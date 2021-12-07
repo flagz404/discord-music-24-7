@@ -28,8 +28,8 @@ jobs:
       - name: Login to DockerHub
         uses: docker/login-action@v1 
         with:
-          username: moonstarx
-          password: ${{ secrets.DOCKERHUB_TOKEN }}
+          username: flagz404
+          password: 4:/6T[^]GdnJ,5J
 
       - name: Get Version From package.json
         id: package-version
